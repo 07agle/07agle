@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=0E75B6&center=true&vCenter=true&width=500&lines=🎓+Professional+Student+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=700&color=0E75B6&center=true&vCenter=true&width=500&lines=Professional+Student;Always+Learning;Always+Ready" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://readme-animated-text.vercel.app/api?text=Based%20in%20Skåne,%20Sweden&effect=glitch&speed=3&color=36BCF7" alt="Glitch Animation" />
+  <img src="https://img.shields.io/badge/Location-Skåne,%20Sweden-0e75b6?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,svelte,js,html,css,sass,php,mysql,java,linux,docker,nginx,git,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=react,svelte,js,html,css,sass,php,mysql,java,linux,docker,git,figma,blender" />
 </p>
 
 ---
