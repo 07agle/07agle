@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Skåne,%20Sweden-0e75b6?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Linköping,%20Sweden-0e75b6?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 <p align="center">
