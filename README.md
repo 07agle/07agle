@@ -17,10 +17,10 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 I’m currently working on **Gymnasiearbete**  
-- 🌱 I’m learning **React, Svelte, SQL**  
+- 🔭 I’m currently working on **Universitet**  
+- 🌱 I’m learning **Python**  
 - 📫 Reach me at: **leon.agersten@gmail.com**  
-- 📍 Based in **Skåne, Sweden**  
+- 📍 Based in **Linköping, Sweden**  
 
 ---
 
